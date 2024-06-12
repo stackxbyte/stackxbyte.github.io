@@ -210,7 +210,7 @@ kbd,
 samp {
     font-family: monospace, serif;
     _font-family: 'courier new', monospace;
-    font-size: 1em;
+    font-size: em;
 }
 
 /*
@@ -233,7 +233,7 @@ q:after {
 }
 
 small {
-    font-size: 75%;
+    font-size: 80%;
 }
 
 /*
@@ -284,7 +284,7 @@ dd {
 menu,
 ol,
 ul {
-    padding: 0 0 0 40px;
+    padding: 0 0 0 20px;
 }
 
 /*

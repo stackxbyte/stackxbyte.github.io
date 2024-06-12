@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-
-#### Hey! Wellcome here you will going to find posts related to reversing enginnering, exploitaion and low level programming. I'm mostly intersetd in low level programming, linux and windows kernel and still learing more.
+<span style="color:green">
+### Welcome Hackers  
+</span>
+#### Here You Will Find Posts Related Reverse Engineering, System Internals, Exploitation and Low level Programming  
 
 ---------------------------------------
-* You can also find me here <br>
+* Feel Free To Contact Me Via <br>
 [GitHub](https://github.com/stackxbyte) 
 [Twitter](https://x.com/c00l_k3d)
