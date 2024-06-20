@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Exploring HEAP 1Part 
+# Exploring Glibc Heap Part1 
 
 TODO
 
