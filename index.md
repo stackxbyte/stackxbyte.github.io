@@ -6,4 +6,4 @@ layout: default
 
 
 <br>
-# **[Exploring Glibc Heap Part1](posts/heap_exp/part1.md)**
+# **[Heap Exploitation Journey Part 1 {Exploring GLIBC Heap}](posts/heap_exploitation/heap_exploitation_journey_part1.md)**
