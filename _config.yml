@@ -1,4 +1,5 @@
-title: StackxByte's Blog 
-description: Reverse Engineering | Binary Exploitation | x86-64 Assembly, C |  Linux Kernel 
+title: StackxByte's Blog  
+description: Reverse Engineering | Binary Exploitation | Linux Kernel 
+show_downloads: 
 google_analytics:
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
