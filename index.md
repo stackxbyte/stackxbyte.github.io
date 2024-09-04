@@ -1,9 +1,10 @@
 ---
 layout: default
+title: StackxByte's Blog
+description: Reverse Engineering - Binary Exploitation - Linux Kernel
 ---
 
 ## Posts
-
 ---
 [ 10-06-2024 ] [Heap Exploitation Part 1 {Exporing Glibc Heap}](posts/heap_exploitation/heap_exploitation_part1.md)
 
