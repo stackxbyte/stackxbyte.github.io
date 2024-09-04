@@ -1,5 +1,5 @@
 title: StackxByte's Blog  
-description: Reverse Engineering | Binary Exploitation | Linux Kernel 
+description: Reverse Engineering - Binary Exploitation - Linux Kernel 
 show_downloads: 
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman

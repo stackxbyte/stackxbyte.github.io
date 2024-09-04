@@ -2,6 +2,9 @@
 layout: default
 ---
 
-#### Here you will find posts related reverse engineering, system internals, exploitation and low level programming. You can find me on [GitHub](https://github.com/stackxbyte) [Twitter](https://x.com/c00l_k3d)
+## Posts
 
-## **[Heap Exploitation Journey](posts/heap_exploitation/heap.md)**
+---
+[ 10-06-2024 ] [Heap Exploitation Part 1 {Exporing Glibc Heap}](posts/heap_exploitation/heap_exploitation_part1.md)
+
+[ 16-08-2024 ] [Heap Exploitation Part 2 {Memory Allocation and Deallocation Process} ](posts/heap_exploitation/heap_exploitation_part2.md)
